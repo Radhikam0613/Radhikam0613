@@ -1,3 +1,5 @@
+# Radhika Mankar | AI & Data Science Engineer
+
 🔭 I’m currently working on  
 - Building AI automation agents using n8n  
 - Enhancing full-stack applications with secure authentication  
